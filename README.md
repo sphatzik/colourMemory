@@ -7,3 +7,8 @@ Everytime that the player finds a matching pair wins 2 points, if he does not fi
 The game ends only if the player had successfully find all the matching pairs, then a pop up warning appears and asks from 
 the user to enter his name, finaly the app pushes a new tableviewController with the high scores.
 
+
+
+Below you can see a preview of the game:
+
+![ScreenShot](https://cloud.githubusercontent.com/assets/2478249/13667281/42aa694a-e6be-11e5-88a5-89ee74b51a0d.gif)
