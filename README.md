@@ -7,5 +7,3 @@ Everytime that the player finds a matching pair wins 2 points, if he does not fi
 The game ends only if the player had successfully find all the matching pairs, then a pop up warning appears and asks from 
 the user to enter his name, finaly the app pushes a new tableviewController with the high scores.
 
-![Alt text](https://github.com/sphatzik/colourMemory/ColourMemoryGame.gif?raw=true "Game Play")
-
